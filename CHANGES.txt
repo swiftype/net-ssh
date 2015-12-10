@@ -1,3 +1,7 @@
+2.10.0.pr296
+=======
+* fixed rare WaitWritable error with proxy commands [Miklos Fazkas, Andre Meij]]
+
 === 2.10.0
 
 === 2.10.0-beta2
