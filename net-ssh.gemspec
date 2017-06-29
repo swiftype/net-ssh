@@ -189,7 +189,7 @@ Gem::Specification.new do |s|
   ]
   s.homepage = "https://github.com/net-ssh/net-ssh"
   s.licenses = ["MIT"]
-  s.required_ruby_version = Gem::Requirement.new(">= 2.0")
+  # s.required_ruby_version = Gem::Requirement.new(">= 2.0")
   s.rubyforge_project = "net-ssh"
   s.rubygems_version = "2.4.6"
   s.signing_key = "/mnt/gem/net-ssh-private_key.pem"
